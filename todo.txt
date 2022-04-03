@@ -1,1 +1,1 @@
-- Use GraphQL
+generate updated GraphQL files: go run github.com/99designs/gqlgen generate
